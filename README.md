@@ -70,7 +70,7 @@ A balanced user experience should focus on both efficiency and accuracy. While t
 - 📝 A Jupyter Notebook with the code, analysis, and visualizations.
 - 🐍 Python files (.py) for key functions.
 - 📊 Tableau file for dashboard visualizations.
-- 📑 A slide deck for project presentation.
+- 📑 A slide deck for project presentation : https://prezi.com/view/kzibk4udFYBsU2qOTtFl/
 - 📄 This README for thorough project documentation.
 
 
